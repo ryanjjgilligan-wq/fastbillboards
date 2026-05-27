@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://fastbillboards.com
+
+# Sitemaps
+Sitemap: https://fastbillboards.com/sitemap.xml
